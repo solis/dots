@@ -1,0 +1,10 @@
+# X settings
+xrdb -merge .Xresources && 
+
+setxkbmap -layout "us,ru" -option "grp:caps_toggle,grp_led:scroll"
+
+# Java fix
+wmname LG3D &&
+
+# Display initialization
+xrandr --output eDP1 --mode 1920x1080 --left-of HDMI2
