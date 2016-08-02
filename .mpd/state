@@ -1,0 +1,153 @@
+sw_volume: 48
+audio_device_state:1:pulse audio
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:In Flames - Discography - 1994-2014/Albums (CD Original)/1994 - Lunar Strain - (320 kbps)/01. Behind Space.mp3
+1:In Flames - Discography - 1994-2014/Albums (CD Original)/1994 - Lunar Strain - (320 kbps)/02. Lunar Strain.mp3
+2:In Flames - Discography - 1994-2014/Albums (CD Original)/1994 - Lunar Strain - (320 kbps)/03. Starforsaken.mp3
+3:In Flames - Discography - 1994-2014/Albums (CD Original)/1994 - Lunar Strain - (320 kbps)/04. Dreamscape.mp3
+4:In Flames - Discography - 1994-2014/Albums (CD Original)/1994 - Lunar Strain - (320 kbps)/05. Everlost (Part I).mp3
+5:In Flames - Discography - 1994-2014/Albums (CD Original)/1994 - Lunar Strain - (320 kbps)/06. Everlost (Part II).mp3
+6:In Flames - Discography - 1994-2014/Albums (CD Original)/1994 - Lunar Strain - (320 kbps)/07. Hеrgalеten.mp3
+7:In Flames - Discography - 1994-2014/Albums (CD Original)/1994 - Lunar Strain - (320 kbps)/08. In Flames.mp3
+8:In Flames - Discography - 1994-2014/Albums (CD Original)/1994 - Lunar Strain - (320 kbps)/09. Upon An Oaken Throne.mp3
+9:In Flames - Discography - 1994-2014/Albums (CD Original)/1994 - Lunar Strain - (320 kbps)/10. Clad In Shadows.mp3
+10:In Flames - Discography - 1994-2014/Albums (CD Original)/1996 - The Jester Race - (320 kbps)/01. Moonshield.mp3
+11:In Flames - Discography - 1994-2014/Albums (CD Original)/1996 - The Jester Race - (320 kbps)/02. The Jester's Dance.mp3
+12:In Flames - Discography - 1994-2014/Albums (CD Original)/1996 - The Jester Race - (320 kbps)/03. Artifacts Of The Black Rain.mp3
+13:In Flames - Discography - 1994-2014/Albums (CD Original)/1996 - The Jester Race - (320 kbps)/04. Graveland.mp3
+14:In Flames - Discography - 1994-2014/Albums (CD Original)/1996 - The Jester Race - (320 kbps)/05. Lord Hypnos.mp3
+15:In Flames - Discography - 1994-2014/Albums (CD Original)/1996 - The Jester Race - (320 kbps)/06. Dead Eternity.mp3
+16:In Flames - Discography - 1994-2014/Albums (CD Original)/1996 - The Jester Race - (320 kbps)/07. The Jester Race.mp3
+17:In Flames - Discography - 1994-2014/Albums (CD Original)/1996 - The Jester Race - (320 kbps)/08. December Flower.mp3
+18:In Flames - Discography - 1994-2014/Albums (CD Original)/1996 - The Jester Race - (320 kbps)/09. Wayfaerer.mp3
+19:In Flames - Discography - 1994-2014/Albums (CD Original)/1996 - The Jester Race - (320 kbps)/10. Dead God In Me.mp3
+20:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/01. Jotun.mp3
+21:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/02. Food For The Gods.mp3
+22:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/03. Gyroscope.mp3
+23:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/04. Dialogue With The Stars.mp3
+24:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/05. The Hive.mp3
+25:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/06. Jester Script Transfigured.mp3
+26:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/07. Morphing Into Primal.mp3
+27:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/08. Worlds Within The Margin.mp3
+28:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/09. Episode 666.mp3
+29:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/10. Everything Counts.mp3
+30:In Flames - Discography - 1994-2014/Albums (CD Original)/1997 - Whoracle - (320 kbps)/11. Whoracle.mp3
+31:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/01. Embody The Invisible.mp3
+32:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/02. Ordinary Story.mp3
+33:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/03. Scorn.mp3
+34:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/04. Colony.mp3
+35:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/05. Zombie Inc.mp3
+36:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/06. Pallar Anders Visa.mp3
+37:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/07. Coerced Coexistence.mp3
+38:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/08. Resin.mp3
+39:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/09. Behind Space '99.mp3
+40:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/10. Insipid 2000.mp3
+41:In Flames - Discography - 1994-2014/Albums (CD Original)/1999 - Colony - (320 kbps)/11. The New Word.mp3
+42:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/01. Bullet Ride.mp3
+43:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/02. Pinball Map.mp3
+44:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/03. Only For The Weak.mp3
+45:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/04. ...As The Future Repeats Today.mp3
+46:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/05. Square Nothing.mp3
+47:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/06. Clayman.mp3
+48:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/07. Satellites And Astronauts.mp3
+49:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/08. Brush The Dust Away.mp3
+50:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/09. Swim.mp3
+51:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/10. Suburban Me.mp3
+52:In Flames - Discography - 1994-2014/Albums (CD Original)/2000 - Clayman (Limited Edition) - (320 kbps)/11. Another Day In Quicksand.mp3
+53:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/01. Reroute To Remain.mp3
+54:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/02. System.mp3
+55:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/03. Drifter.mp3
+56:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/04. Trigger.mp3
+57:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/05. Cloud Connected.mp3
+58:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/06. Transparent.mp3
+59:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/07. Dawn Of A New Day.mp3
+60:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/08. Egonomic.mp3
+61:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/09. Minus.mp3
+62:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/10. Dismiss The Cynics.mp3
+63:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/11. Free Fall.mp3
+64:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/12. Dark Signs.mp3
+65:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/13. Metaphor.mp3
+66:In Flames - Discography - 1994-2014/Albums (CD Original)/2002 - Reroute To Remain - (320 kbps)/14. Black & White.mp3
+67:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/01. F(r)iend.mp3
+68:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/02. The Quiet Place.mp3
+69:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/03. Dead Alone.mp3
+70:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/04. Touch Of Red.mp3
+71:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/05. Like You Better Dead.mp3
+72:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/06. My Sweet Shadow.mp3
+73:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/07. Evil In A Closet.mp3
+74:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/08. In Search For I.mp3
+75:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/09. Borders And Shading.mp3
+76:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/10. Superhero Of Computer Rage.mp3
+77:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/11. Dial 595-Escape.mp3
+78:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/12. Bottled.mp3
+79:In Flames - Discography - 1994-2014/Albums (CD Original)/2004 - Soundtrack To Your Escape (Limited Edition) - (320 kbps)/13. Discover Me Loke Emptiness (Bonus Track).mp3
+80:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/01. Take This Life.mp3
+81:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/02. Leeches.mp3
+82:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/03. Reflect The Storm.mp3
+83:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/04. Dead End.mp3
+84:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/05. Scream.mp3
+85:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/06. Come Clarity.mp3
+86:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/07. Vacuum.mp3
+87:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/08. Pacing Death's Trail.mp3
+88:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/09. Crawl Through Knives.mp3
+89:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/10. Versus Terminus.mp3
+90:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/11. Our Infinite Struggle.mp3
+91:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/12. Vanishing Light.mp3
+92:In Flames - Discography - 1994-2014/Albums (CD Original)/2006 - Come Clarity (Limited Edition) - (320 kbps)/13. Your Bedtime Story Is Scaring Everyone.mp3
+93:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/01. The Mirror's Truth.mp3
+94:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/02. Disconnected.mp3
+95:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/03. Sleepless Again.mp3
+96:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/04. Alias.mp3
+97:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/05. I'm The Highway.mp3
+98:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/06. Delight And Angers.mp3
+99:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/07. Move Through Me.mp3
+100:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/08. The Chosen Pessimist.mp3
+101:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/09. Sober And Irrelevant.mp3
+102:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/10. Condemned.mp3
+103:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/11. Drenched In Fear.mp3
+104:In Flames - Discography - 1994-2014/Albums (CD Original)/2008 - A Sense Of Purpose (Limited Edition) - (320 kbps)/12. March To The Shore.mp3
+105:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/01. Sounds Of A Playground Fading.mp3
+106:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/02. Deliver Us.mp3
+107:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/03. All For Me.mp3
+108:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/04. The Puzzle.mp3
+109:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/05. Fear Is The Weakness.mp3
+110:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/06. Where The Dead Ships Dwell.mp3
+111:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/07. The Attic.mp3
+112:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/08. Darker Times.mp3
+113:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/09. Ropes.mp3
+114:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/10. Enter Tragedy.mp3
+115:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/11. Jester's Door.mp3
+116:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/12. A New Dawn.mp3
+117:In Flames - Discography - 1994-2014/Albums (CD Original)/2011 - Sounds Of A Playground Fading (Limited Edition) - (320 kbps)/13. Liberation.mp3
+118:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/01. In Plain View.mp3
+119:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/02. Everything's Gone.mp3
+120:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/03. Paralyzed.mp3
+121:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/04. Through Oblivion.mp3
+122:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/05. With Eyes Wide Open.mp3
+123:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/06. Siren Charms.mp3
+124:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/07. When The World Explodes.mp3
+125:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/08. Rusted Nail.mp3
+126:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/09. Dead Eyes.mp3
+127:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/10. Monsters In The Ballroom.mp3
+128:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/11. Filtered Truth.mp3
+129:In Flames - Discography - 1994-2014/Albums (CD Original)/2014 - Siren Charms (Digibook Limited Edition) - (320 kbps)/12. Become The Sky (Bonus Track).mp3
+130:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/01 The Ninth Wave.mp3
+131:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/02 Twilight Of The Gods.mp3
+132:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/03 Prophecies.mp3
+133:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/04 At The Edge Of Time.mp3
+134:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/05 Ashes Of Eternity.mp3
+135:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/06 Distant Memories.mp3
+136:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/07 The Holy Grail.mp3
+137:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/08 The Throne.mp3
+138:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/09 Sacred Mind.mp3
+139:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/10 Miracle Machine.mp3
+140:Blind Guardian/Studio albums/2015 - Beyond The Red Mirror (Japan, VICP-65291)/11 Grand Parade.mp3
+playlist_end
