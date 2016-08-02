@@ -1,34 +1,105 @@
-#include ".colors/multicolor"
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintslight
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
 
-Xft.lcdfilter                :  lcddefault
-Xft.hintstyle                :  hintslight
-Xft.hinting                  :  1
-Xft.autohint                 :  0 
-Xft.antialias                :  1
-Xft.dpi                      :  96
-Xft.rgba                     :  rgb
+Xcursor.size: 16
+
+*background: #242424
+*foreground: #CCCCCC
+
+! black
+*color0: #444444 
+*color8: #888888
+
+! red
+*color1: #BF3E3E
+*color9: #FF5353
+
+! green
+*color2: #98AB60
+*color10: #CBE580
+
+! yellow
+*color3: #AB7260
+*color11: #E59980 
+
+! blue
+*color4: #6099AC
+*color12: #80CCE6
+
+! magenta
+*color5: #AB6099
+*color13: #E580CC
+
+! cyan
+*color6: #80bab0
+*color14: #add9d1
+
+! white
+*color7: #F1F2F0
+*color15: #FFFFFF
+
 
 Xcursor.theme                :  Vanilla-DMZ-AA
 
-URxvt*.transparent: true
-! URxvt*.shading: 0 to 99 darkens, 101 to 200 lightens
-URxvt*.shading: 25
 
-*.charClass                  : 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48,35:48,58:48,63:48,61:48,44:48,38:48,59:48
-*.saveLines                  : 4096
-URxvt.scrollBar              : false
+URxvt.urgentOnBell: true
 
+URxvt*geometry:                115x40
 URxvt.font: -*-terminus-medium-r-*-*-14-*-*-*-*-*-iso10646-1
 URxvt.boldFont: -*-terminus-bold-r-*-*-14-*-*-*-*-*-iso10646-1
 URxvt.italicFont: -*-terminus-medium-r-*-*-14-*-*-*-*-*-iso10646-1
 URxvt.boldItalicFont: -*-terminus-bold-r-*-*-14-*-*-*-*-*-iso10646-1
+URxvt*depth:                24
+URxvt*borderless: 1
+URxvt*scrollBar:            false
+URxvt*saveLines:  4096
+URxvt.transparent:      false
+URxvt*.shading: 30
 
 URxvt.loginShell             : true
+
+URxvt.scrollTtyOutput:       : false
 URxvt.scrollWithBuffer       : true
 URxvt.scrollTtyKeypress      : true
 
-URxvt.perl-ext-common        : default,matcher,vtwheel,clipboard
+URxvt.perl-ext-common:      default,clipboard,url-select,vtwheel
+URxvt.url-select.launcher:  google-chrome-stable
+URxvt.url-select.underline: true
+URxvt.keysym.M-u:           perl:url-select:select_next
+URxvt.keysym.M-Escape:      perl:keyboard-select:activate
+URxvt.keysym.M-s:           perl:keyboard-select:search
 URxvt.keysym.Shift-Control-C : perl:clipboard:copy
 URxvt.keysym.Shift-Control-V : perl:clipboard:paste
-URxvt.url-launcher           : /usr/bin/dwb
 URxvt.matcher.button         : 1
+
+! disable the stupid ctrl+shift 'feature'
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+
+
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+
+rofi.opacity:  100
+rofi.width:    90
+rofi.lines:    25
+rofi.font:     DejaVu Sans Mono 12
+rofi.location: 0
+rofi.padding:  5
+
+rofi.color-enabled: true
+rofi.color-window: #3F3F3F,#000000
+
+! State:           bg,     fg,     bgalt   hlbg,   hlfg
+! zenburn:         bg,     fg,     bg-05,  bg+1,   fg+1
+rofi.color-normal: #3F3F3F,#DCDCCC,#383838,#4F4F4F,#FFFFEF
+!                  blue-4, fg,     blue-5, blue-3, fg+1
+rofi.color-active: #4C7073,#DCDCCC,#366060,#5C888B,#FFFFEF
+!                  red-4,  fg,     red-5,  red-3,  fg+1
+rofi.color-urgent: #8C5353,#DCDCCC,#7C4343,#9C6363,#FFFFEF
