@@ -13,7 +13,7 @@ Xft.rgba: rgb
 rofi.opacity:  100
 rofi.width:    90
 rofi.lines:    25
-rofi.font:     DejaVu Sans Mono 12
+rofi.font:     Share 12
 rofi.location: 0
 rofi.padding:  5
 
