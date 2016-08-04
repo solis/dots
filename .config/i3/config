@@ -181,29 +181,25 @@ bindsym $mod+b mode "border"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-        
-        mode hide
-        hidden_state hide
-        modifier $mod
-        font pango: Share Tech 10
-        strip_workspace_numbers yes
-        position top
-        # Using custom i3status.conf
-        status_command i3status -c ~/.config/i3/i3status.conf   
+bar {  
+    #mode hide
+    modifier $mod
+    font pango: Share Tech 10
+    strip_workspace_numbers yes
+    position top
+    # Using custom i3status.conf
+    status_command i3status -c ~/.config/i3/i3status.conf   
 
-        colors {
-            # Whole color settings
-            background #3F3F3F
+    colors {
+        # Whole color settings
+        background #002b36
 
-            # Type             border  background font
-            focused_workspace  #285577 #285577 #CCCCCC
-            active_workspace   #1A1A1A #1A1A1A #696F89
-            inactive_workspace #3F3F3F #3F3F3F #6B6B6B
-            urgent_workspace   #662B32 #58252B #F4BF75
-        }
-
-                
+        # Type             border  background font
+        focused_workspace  #285577 #285577 #CCCCCC
+        active_workspace   #1A1A1A #1A1A1A #696F89
+        inactive_workspace #002b36 #002b36 #6B6B6B
+        urgent_workspace   #662B32 #58252B #F4BF75
+    }
 }
 
 focus_follows_mouse no
@@ -275,10 +271,4 @@ for_window [class="Pavucontrol"] floating enable, border none, focus, move absol
 for_window [title="ranger"] border none
 
 # autostart
-#exec --no-startup-id urxvtd
-exec --no-startup-id kbdd
-exec --no-startup-id unclutter
-exec --no-startup-id "devmon --no-gui"
-exec --no-startup-id redshift-gtk
-exec --no-startup-id "xautolock -time 10 -locker 'i3lock -u -e -c 000000'"
 exec skype

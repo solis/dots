@@ -13,10 +13,15 @@ fi
 # Keyboard layout
 setxkbmap -layout "us,ru" -option "grp:caps_toggle,grp_led:caps" &
 
-if [[ -z `xrandr | grep " connected" | grep 'HDMI2'` ]]; then
-	echo "No monitor found" &
-else
-	xrandr --output eDP1 --mode 1920x1080 --pos 0x1240 --rotate normal --output DP1 --primary --mode 1920x1200 --pos 1920x0 --rotate left --output HDMI2 --mode 1920x1200 --pos 3120x350 --rotate normal &
-fi
+#if [[ -z `xrandr | grep " connected" | grep 'HDMI2'` ]]; then
+#	echo "No monitor found" &
+#else
+#	xrandr --output eDP1 --mode 1920x1080 --pos 0x1240 --rotate normal --output DP1 --primary --mode 1920x1200 --pos 1920x0 --rotate left --output HDMI2 --mode 1920x1200 --pos 3120x350 --rotate normal &
+#fi
+
+kbdd &
+unclutter &
+redshift &
+xsetroot -solid "#3f3f3f"
 
 exec i3

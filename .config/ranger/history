@@ -3,3 +3,4 @@ mkdir test
 delete
 open_with 
 rename paulau.pdf
+open_with vim

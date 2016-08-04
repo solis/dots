@@ -3,7 +3,7 @@
 
 include "/home/apaulau/.gtkrc-2.0.mine"
 gtk-theme-name="Arc"
-gtk-icon-theme-name="Vertex-Icons"
+gtk-icon-theme-name="Numix"
 gtk-font-name="Source Sans Pro 11"
 gtk-cursor-theme-name="Adwaita"
 gtk-cursor-theme-size=0
@@ -15,5 +15,5 @@ gtk-enable-event-sounds=1
 gtk-enable-input-feedback-sounds=1
 gtk-xft-antialias=1
 gtk-xft-hinting=1
-gtk-xft-hintstyle="hintslight"
+gtk-xft-hintstyle="hintfull"
 gtk-xft-rgba="rgb"
