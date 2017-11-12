@@ -1,0 +1,47 @@
+--------------- 30-01-2016, 22:05:17 ---------------
+| DC v0.6.6 beta Rev. 6327 -- x86_64-Linux-qt4
+| Arch Linux \r (\l) -- Qt 4.8.7, libQt4Pas 4.5.3
+Unhandled exception: EIPCError: : Failed to remove named pipe: /tmp/doublecmd-3-1000
+  Stack trace:
+  $0000000000B29D21 in /usr/lib/doublecmd/doublecmd
+  $0000000000B298F5 in /usr/lib/doublecmd/doublecmd
+  $0000000000B29534 in /usr/lib/doublecmd/doublecmd
+  $0000000000424C64 line 193, column 28 of doublecmd.lpr in /usr/lib/doublecmd/doublecmd
+
+--------------- 30-01-2016, 22:05:17 ---------------
+| DC v0.6.6 beta Rev. 6327 -- x86_64-Linux-qt4
+| Arch Linux \r (\l) -- Qt 4.8.7, libQt4Pas 4.5.3
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00000000004646B2 in /usr/lib/doublecmd/doublecmd
+
+--------------- 03-04-2016, 17:25:56 ---------------
+| DC v0.7.1 beta Rev. 6739 -- x86_64-Linux-qt4
+| Arch Linux \r (\l) -- Qt 4.8.7, libQt4Pas 4.5.3
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F3D3D943B10 in /usr/lib/libQtCore.so.4
+
+--------------- 03-04-2016, 17:26:00 ---------------
+| DC v0.7.1 beta Rev. 6739 -- x86_64-Linux-qt4
+| Arch Linux \r (\l) -- Qt 4.8.7, libQt4Pas 4.5.3
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F3D3D943B10 in /usr/lib/libQtCore.so.4
+
+--------------- 03-04-2016, 17:26:04 ---------------
+| DC v0.7.1 beta Rev. 6739 -- x86_64-Linux-qt4
+| Arch Linux \r (\l) -- Qt 4.8.7, libQt4Pas 4.5.3
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F9CEF30EE9D in /usr/lib/libQtGui.so.4
+  $4B622A94357BD500 in 
+
+--------------- 18-04-2016, 15:48:13 ---------------
+| DC v0.7.1 beta Rev. 6739 -- x86_64-Linux-qt4
+| Arch Linux \r (\l) -- Qt 4.8.7, libQt4Pas 4.5.3
+Unhandled exception: EIPCError: : Failed to remove named pipe: /tmp/doublecmd--1000
+  Stack trace:
+  $0000000000B04ADB in /usr/lib/doublecmd/doublecmd
+  $0000000000B047A2 in /usr/lib/doublecmd/doublecmd
+

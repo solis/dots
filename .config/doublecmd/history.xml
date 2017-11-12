@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item>/media/sdb1-usb-Kingston_DataTra/</Item>
+      <Item>/home/apaulau/Downloads/</Item>
+      <Item>/media/</Item>
+      <Item>/media/apaulau/</Item>
+      <Item>/home/apaulau/g/sh/</Item>
+      <Item>/home/apaulau/Downloads/torrents/Shadowrun Returns/</Item>
+      <Item>/home/apaulau/Downloads/torrents/</Item>
+      <Item>/home/apaulau/</Item>
+      <Item>/home/apaulau/g/</Item>
+      <Item>/home/apaulau/.config/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Index/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Cache/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Cache/zenburn/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Backup/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Backup/20160810102100/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Backup/20160810102100/LaTeXTools/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Installed Packages/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Installed Packages/PyV8/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Installed Packages/PyV8/linux64-p3/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Packages/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Packages/ssl-linux/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Packages/User/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Packages/User/Package Control.cache/</Item>
+      <Item>/home/apaulau/.config/sublime-text-3/Packages/bz2/</Item>
+      <Item>/home/</Item>
+      <Item>/</Item>
+      <Item>/media/sdb1-usb-UFD_2.0_Silicon-/</Item>
+      <Item>./</Item>
+      <Item>./Downloads/</Item>
+      <Item>/home/apaulau/Downloads/photos/</Item>
+      <Item>/home/apaulau/dev/</Item>
+      <Item>/home/apaulau/workspace/</Item>
+      <Item>/home/apaulau/uni/</Item>
+      <Item>/home/apaulau/uni/risk-estimation/</Item>
+      <Item>/home/apaulau/recup_dir.1/</Item>
+      <Item>/media/mmcblk0p1/DCIM/102_FUJI/</Item>
+      <Item>/media/mmcblk0p1/DCIM/</Item>
+      <Item>/media/mmcblk0p1/</Item>
+      <Item>/media/mmcblk0p1/FFDB/</Item>
+      <Item>/media/mmcblk0p1/System Volume Information/</Item>
+      <Item>/home/apaulau/mnt/</Item>
+      <Item>/home/apaulau/tmp/</Item>
+      <Item>/home/apaulau/Dropbox/</Item>
+      <Item>/home/apaulau/Dropbox/Books/</Item>
+      <Item>/home/apaulau/Downloads/torrents/Pluralsight - Angular 2 - First Look (Full Course)/</Item>
+      <Item>/home/apaulau/Downloads/torrents/Brown E. - Learning JavaScript, 3rd Edition - 2016/</Item>
+      <Item>/home/apaulau/Downloads/torrents/Anton Kovalyov - Beautiful JavaScript - 2015/</Item>
+      <Item>/home/apaulau/Dropbox/Books/dev/</Item>
+      <Item>/home/apaulau/Downloads/torrents/Snatch.2000.1080p.BluRay.x264.anoXmous/</Item>
+      <Item>/home/apaulau/Downloads/torrents/12_Angry_Men/</Item>
+    </Navigation>
+    <CommandLine>
+      <Item>cd mtp://[usb:002,010]/Internal storage</Item>
+      <Item>mtp://[usb:002,010]/Internal storage</Item>
+      <Item>smb:/192.168.1.1</Item>
+      <Item>smb://192.168.1.1</Item>
+      <Item>ftp://192.168.1.1</Item>
+    </CommandLine>
+    <FileMask>
+      <Item>*.*</Item>
+    </FileMask>
+    <SearchText/>
+    <SearchTextPath/>
+    <ReplaceText/>
+    <ReplaceTextPath/>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>

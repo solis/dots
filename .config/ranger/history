@@ -1,6 +1,8 @@
 open_with q
 mkdir test
-delete
 open_with 
 rename paulau.pdf
+open_with feh
+search .djvu
+delete
 open_with vim

@@ -1,15 +1,8 @@
-export GREP_COLOR="1;31"
-export NOCOLOR_PIPE=1
+# Keyboard layout
+setxkbmap -layout "us,ru" -option "grp:caps_toggle,grp_led:scroll"
 
-# Coloring less command
-export LESS=-R
-export LESS_TERMCAP_me=$(printf '\e[0m')
-export LESS_TERMCAP_se=$(printf '\e[0m')
-export LESS_TERMCAP_ue=$(printf '\e[0m')
-export LESS_TERMCAP_mb=$(printf '\e[1;32m')
-export LESS_TERMCAP_md=$(printf '\e[1;34m')
-export LESS_TERMCAP_us=$(printf '\e[1;32m')
-export LESS_TERMCAP_so=$(printf '\e[1;44;1m')
+# Disable bell
+xset -b
 
 # Enforce correct locales from the beginning
 unset LC_COLLATE
@@ -34,4 +27,9 @@ export AWT_TOOLKIT=XToolkit
 # Set vim as editor
 export EDITOR="vim"
 
-export PATH=$PATH:/home/apaulau/.gem/ruby/2.3.0/bin
+# Enable core dumps in case something goes wrong
+ulimit -c unlimited
+
+# Start i3 and log to ~/.i3/logfile
+echo "Starting at $(date)" >> ~/.i3/logfile
+exec /usr/bin/i3 -V -d all >> ~/.i3/logfile
